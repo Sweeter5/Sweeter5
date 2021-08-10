@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sweeter5
 - 👀 I’m interested in ... shiny things
-- 🌱 I’m currently learning ... infosec
-- 💞️ I’m looking to collaborate on ... blueteaming
+- 🌱 I’m currently learning ... patience
+- 💞️ I’m looking to collaborate on ... life
 - 📫 How to reach me ... sweet.release5@gmail.com
 
 <!---
